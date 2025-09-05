@@ -13,6 +13,7 @@
 ### 🔧 툴 (Tools)
 ![Visual Studio Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Analyzer: Saleae Logic](https://img.shields.io/badge/Analyzer-Saleae%20Logic-FF4500?style=flat&logo=buffer&logoColor=white)
+![Terminal: Tera Term](https://img.shields.io/badge/Terminal-Tera%20Term-1E90FF?style=flat&logo=windows-terminal&logoColor=white)
 
 ---
 
