@@ -11,6 +11,7 @@
 ---
 
 ### 🔧 툴 (Tools)
+![Visual Studio Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Saleae Logic](https://img.shields.io/badge/Saleae-Logic%20(Logic%208%20/%20Pro)-FF4500?style=flat)
 
 ---
