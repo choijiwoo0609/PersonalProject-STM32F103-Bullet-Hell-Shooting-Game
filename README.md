@@ -3,32 +3,32 @@
 ![과목: ARM Architecture](https://img.shields.io/badge/과목-ARM%20Architecture-4CAF50?style=flat&logo=arm&logoColor=white)
 
 ---
-# 💻 기술 스택 (Tech Stack)
+## 💻 기술 스택 (Tech Stack)
 
-# 📕 언어 (Languages)
+### 📕 언어 (Languages)
 ![C](https://img.shields.io/badge/C-Programming%20Language-00599C?style=flat&logo=c&logoColor=white)
 
 ---
 
-# 🔧 툴 (Tools)
+### 🔧 툴 (Tools)
 ![Saleae Logic](https://img.shields.io/badge/Saleae-Logic%20(Logic%208%20/%20Pro)-FF4500?style=flat)
 
 ---
 
-# ⚙️ 개발환경 (Development Environment)
+### ⚙️ 개발환경 (Development Environment)
 ![STM32F103](https://img.shields.io/badge/MCU-STM32F103-00BFFF?style=flat&logo=stmicroelectronics&logoColor=white)
 ![Cortex-M3](https://img.shields.io/badge/Core-ARM%20Cortex--M3-8A2BE2?style=flat&logo=arm&logoColor=white)
 
 ---
 
-# 🏫 교육 정보 (Education Info)
+### 🏫 교육 정보 (Education Info)
 - **교육명**: 대한상공회의소 서울기술교육센터  
 - **과정**: AI 시스템반도체설계 2기  
 - **과목**: ARM Architecture  
 
 ---
 
-# 📌 프로젝트 정보 (Project Info)
+### 📌 프로젝트 정보 (Project Info)
 - **프로젝트 주제**: STM32F103 기반 탄막 슈팅 게임 제작.
 - **주요 내용**:  
   - ARM Cortex-M3 환경에서 C언어로 게임 전체 루프 구현  
